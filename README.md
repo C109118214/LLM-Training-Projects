@@ -11,4 +11,3 @@
 ## 安裝與使用
 🔹 GitHub 專案連結：
 https://github.com/C109118214/LLM-Training-Projects
-![image](https://github.com/user-attachments/assets/efd2711f-3a32-449b-9c0c-9d536b062137)
