@@ -9,3 +9,5 @@
 - CUDA/PyTorch 加速
 
 ## 安裝與使用
+🔹 GitHub 專案連結：
+https://github.com/你的帳號/LLM-Training-Projects
