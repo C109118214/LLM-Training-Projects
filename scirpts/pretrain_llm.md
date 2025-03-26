@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/de68f66f-932c-482b-8387-66f1449857d4)
+
+下載dataset
+```cmd
+!pip install dataset
+```
 你的 **`pretrain_llm.py`** 需要一個合適的訓練集來進行 LLM 預訓練。以下是幾種不同類型的數據集，取決於你的目標：  
 
 ---
