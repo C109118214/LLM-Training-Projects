@@ -230,3 +230,4 @@ git push -u origin main
 ---
 
 這樣，你的 GitHub 專案就能完整展現 **LLM 訓練、分散式計算、CUDA 加速**！ 🚀
+![image](https://github.com/user-attachments/assets/44bcd97c-8d68-47ec-b44e-989fdc0510b2)
